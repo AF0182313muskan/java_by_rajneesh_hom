@@ -1,1 +1,1 @@
-package looping_stm;
+package array_prog;
